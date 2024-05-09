@@ -1,0 +1,6 @@
+#nodeFile
+/node_modules
+
+#FilesForTest
+*.csv
+*.xlsx

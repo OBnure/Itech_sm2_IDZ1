@@ -1,0 +1,17 @@
+{
+  "name": "idz_1_test_electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^30.0.2",
+    "fs": "^0.0.1-security",
+    "jquery": "^3.7.1"
+  }
+}
